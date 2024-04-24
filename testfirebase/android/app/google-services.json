@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421068310848",
+    "project_id": "alihjenjangpnp",
+    "storage_bucket": "alihjenjangpnp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421068310848:android:74496d1073c4c8fa9a92a5",
+        "android_client_info": {
+          "package_name": "com.example.testfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf5SVfA9XTs_8gXPt045C6S2cX7Qzu_1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
